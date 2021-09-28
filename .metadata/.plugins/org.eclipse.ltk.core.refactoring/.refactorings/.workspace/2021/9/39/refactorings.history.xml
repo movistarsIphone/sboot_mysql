@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Delete resource &apos;gs-accessing-data-jpa-initial&apos;" deleteContents="false" description="Delete resource &apos;gs-accessing-data-jpa-initial&apos;" element1="/gs-accessing-data-jpa-initial" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1632328142399"/>&#x0A;&#x0A;<refactoring comment="Delete resource &apos;gs-accessing-data-jpa-complete&apos;" deleteContents="true" description="Delete resource &apos;gs-accessing-data-jpa-complete&apos;" element1="/gs-accessing-data-jpa-complete" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1632328159721"/>
+</session>
